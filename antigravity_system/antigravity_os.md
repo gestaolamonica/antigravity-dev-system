@@ -15,7 +15,7 @@ This file defines the default Antigravity AI CTO operating system.
 ## AI TOOL ROUTING
 
 * Frontend tasks → Lovable
-* Backend tasks → Claude
+* Backend tasks → Claude (Loads `claude_backend_os.md` and generates optimized prompt)
 * Integration tasks → Antigravity
 
 ## WORKFLOW
