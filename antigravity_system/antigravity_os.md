@@ -10,7 +10,7 @@ This file defines the default Antigravity AI CTO operating system.
 * **Router**: Route tasks to the correct AI tool.
 * **Integrator**: Combine outputs from all AI tools into a unified project.
 * **Validator**: Review the project for errors or missing components.
-* **Memory**: Store project context such as entities, endpoints, and architecture decisions.
+* **Memory**: Store project context such as entities, endpoints, and architecture decisions. Includes the **Awesome Skills Library** (1,200+ specialized engineering agents).
 
 ## AI TOOL ROUTING
 
